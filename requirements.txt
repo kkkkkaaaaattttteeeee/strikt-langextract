@@ -1,8 +1,18 @@
+# Ядро проекта
 langextract>=1.6.0
-sentence-transformers>=3.0.0
-pymorphy3
-pymorphy3-dicts-ru
 pandas>=2.0.0
+requests>=2.28.0
+
+# NLP и метрики
+sentence-transformers>=2.2.0
+scikit-learn>=1.2.0
+pymorphy3>=1.2.0
+pymorphy3-dicts-ru
+
+# Визуализация
 matplotlib>=3.7.0
-scikit-learn>=1.3.0
-requests>=2.31.0
+plotly>=5.15.0
+
+
+# Утилиты
+numpy>=1.24.0
