@@ -11,8 +11,6 @@ pymorphy3-dicts-ru
 
 # Визуализация
 matplotlib>=3.7.0
-plotly>=5.15.0
-
 
 # Утилиты
 numpy>=1.24.0
